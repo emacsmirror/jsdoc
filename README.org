@@ -1,5 +1,7 @@
 #+TITLE: jsdoc.el
 
+
+[[https://stable.melpa.org/#/jsdoc][file:https://stable.melpa.org/packages/jsdoc-badge.svg]]
 [[https://melpa.org/#/jsdoc][file:https://melpa.org/packages/jsdoc-badge.svg]]
 
 This package provides an easy way to insert [[https://jsdoc.app/][JSDoc]] function comments and typedefs. It leverages a variety of techniques to generate documentation as much as possible without human interaction, including type inference and other similar approaches.
